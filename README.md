@@ -1,5 +1,5 @@
 # My Profile on GitHub
-```
+´´´
                         .       ....                     .  .   ...  .          .,,'.     ......    
                                                         .....       ..          .,,,....    ....    
                                          ..          .  .  .....              ...',.          ...   
@@ -70,21 +70,30 @@ ccccccccccccccccccccccccccccccc:::::::::::;;;;;;;;;;;;;;;;;;;,,,,,;;;;;::::,....
 ```
 ## 👋 About me
 I'm Wesley, a tech enthusiast and passionate about learning new things.  
-I like to explore programming languages, digital security and open source projects.
+I like to explore programming languages, digital security and open source project
 
-## 💻 Languages and Tools
-- **Programming:** Python, JavaScript, C#
-- **Web:** HTML, CSS
-- **Tools:** Git, Linux
+## 👋 About Me
+Hi, I'm Wesley Venerando Silva — a technology enthusiast passionate about learning new things.  
+I enjoy exploring programming languages, cybersecurity, and open-source projects.
+
+## 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎯 Interests
-- Machine Learning
-- Pentest and Encryption
+- Machine Learning  
+- Pentesting & Cryptography  
+- PC building and optimization  
 
-## 📊 GitHub statistics
-![ GitHub Stats](https://github-readme-stats.vercel.app/api? username=venerandodasilvawesley-debug&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Followers](https://img.shields.io/github/followers/venerandodasilvawesley-debug?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/venerandodasilvawesley-debug?style=for-the-badge)
 
-![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? username=venerandodasilvawesley-debug&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venerandodasilvawesley-debug&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venerandodasilvawesley-debug&layout=compact&theme=radical)
 
-## 🌐 Connect with me
-- [LinkedIn] https://www.linkedin.com/in/wesley-venerando-silva/
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesley-venerando-silva/)
