@@ -1,6 +1,9 @@
 # My Profile on GitHub
 
 ´´´
+
+	
+
                         .       ....                     .  .   ...  .          .,,'.     ......    
                                                         .....       ..          .,,,....    ....    
                                          ..          .  .  .....              ...',.          ...   
@@ -70,9 +73,8 @@ ccccccccccc::ccccccccccccccccccc::::::::::;;;;;;;;;:::;;;;;;;;;,;,;;;;;::,......
 ccccccccccccccccccccccccccccccc:::::::::::;;;;;;;;;;;;;;;;;;;,,,,,;;;;;::::,........................
 
 ```
-## 👋 About me
-I'm Wesley, a tech enthusiast and passionate about learning new things.  
-I like to explore programming languages, digital security and open source project
+
+# Dark Super Nova
 
 ## 👋 About Me
 Hi, I'm Wesley Venerando Silva — a technology enthusiast passionate about learning new things.  
@@ -93,15 +95,19 @@ I enjoy exploring programming languages, cybersecurity, and open-source projects
 ## 📊 GitHub Stats
 ![Followers](https://img.shields.io/github/followers/venerandodasilvawesley-debug?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/venerandodasilvawesley-debug?style=for-the-badge)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venerandodasilvawesley-debug&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venerandodasilvawesley-debug&layout=compact&theme=radical)
 
+## 🧩 Repository Status
+### Smart Housing
+![Build Status](https://github.com/venerandodasilvawesley-debug/smart-housing/actions/workflows/main.yml/badge.svg)
+[![codecov](https://codecov.io/gh/venerandodasilvawesley-debug/smart-housing/branch/main/graph/badge.svg)](https://codecov.io/gh/venerandodasilvawesley-debug/smart-housing)
+
+### METATRON
+![Build Status](https://github.com/venerandodasilvawesley-debug/METATRON/actions/workflows/main.yml/badge.svg)
+[![codecov](https://codecov.io/gh/venerandodasilvawesley-debug/METATRON/branch/main/graph/badge.svg)](https://codecov.io/gh/venerandodasilvawesley-debug/METATRON)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesley-venerando-silva/)
-
-## 📂 Repository Status
-
-## Smart Housing Build Status
-![Build Status](https://github.com/venerandodasilvawesley-debug/smart-housing/actions/workflows/main.yml/badge.svg)
+[![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Big-Donut1791/)
 
