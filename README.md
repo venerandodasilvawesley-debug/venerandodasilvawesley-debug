@@ -3,16 +3,19 @@
 ## 🌟 About Me
 Hi, I'm Wesley Venerando Silva — passionate about technology, cybersecurity, and open-source projects.
 
-## 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 💻 Languages & Tools (CLI style)
+```bash
+$ python3 --version
+Python 3.x
 
-## 🎯 Interests
-- Machine Learning  
-- Pentesting & Cryptography  
-- PC building and optimization  
+$ node --version
+JavaScript (Node.js)
 
-## 🤝 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/wesley-venerando-silva)  
-[Reddit](https://www.reddit.com/user/venerandodasilvawesley)
+$ uname -a
+Linux
+
+
+🤝 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/wesley-venerando-silva  
+Reddit: https://www.reddit.com/user/venerandodasilvawesley
