@@ -1,16 +1,10 @@
+
 # Dark Super Nova
 
-# 🌟 About Me
+## 🌟 About Me
 Hi, I'm Wesley Venerando Silva — passionate about technology, cybersecurity, and open-source projects.
 
-# 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-
-
-## 💻 Languages & Tools (CLI style)
+# 💻 Languages & Tools (CLI style)
 ```bash
 $ python3 --version
 Python 3.x
@@ -20,12 +14,12 @@ JavaScript (Node.js)
 
 $ uname -a
 Linux
-
-# 🎯 Interests
+´´´
+## 🎯 Interests
 - Machine Learning  
 - Pentesting & Cryptography  
-- PC building and optimization
+- PC building and optimization  
 
-# 🤝 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/wesley-venerando-silva)
+## 🤝 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/wesley-venerando-silva)  
 [Reddit](https://www.reddit.com/user/venerandodasilvawesley)
