@@ -1,4 +1,4 @@
-My Profile on GitHub
+# My Profile on GitHub
                         .       ....                     .  .   ...  .          .,,'.     ......    
                                                         .....       ..          .,,,....    ....    
                                          ..          .  .  .....              ...',.          ...   
@@ -67,28 +67,23 @@ ccccccccccccc::cccccccccc:;;;,,,,''..'......'',;;;;::;;,'.....'',,,;;;;,........
 ccccccccccc::ccccccccccccccccccc::::::::::;;;;;;;;;:::;;;;;;;;;,;,;;;;;::,..........................
 ccccccccccccccccccccccccccccccc:::::::::::;;;;;;;;;;;;;;;;;;;,,,,,;;;;;::::,........................
 
-👋 About me
+## 👋 About me
+I'm Wesley, a tech enthusiast and passionate about learning new things.  
+I like to explore programming languages, digital security and open source projects.
 
-I'm Wesley, a tech enthusiast and passionate about learning new things. I like to explore programming languages, digital security and open source projects.
-💻 Languages and Tools
+## 💻 Languages and Tools
+- **Programming:** Python, JavaScript, C#
+- **Web:** HTML, CSS
+- **Tools:** Git, Linux
 
-    Programming: Python, JavaScript, C#
+## 🎯 Interests
+- Machine Learning
+- Pentest and Encryption
 
-    Web: HTML, CSS
-
-    Tools: VSCOde, Git, Linux
-
-🎯 Interests
-
-    Machine Learning
-
-    Pentest and Encryption
-
-📊 GitHub statistics
-
+## 📊 GitHub statistics
 ![ GitHub Stats](https://github-readme-stats.vercel.app/api? username=venerandodasilvawesley-debug&show_icons=true&theme=radical)
 
 ![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? username=venerandodasilvawesley-debug&layout=compact&theme=radical)
-🌐 Connect with me
 
-https://www.linkedin.com/in/wesley-venerando-silva/
+## 🌐 Connect with me
+- [LinkedIn] https://www.linkedin.com/in/wesley-venerando-silva/
