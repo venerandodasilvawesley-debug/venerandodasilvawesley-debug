@@ -97,3 +97,9 @@ I enjoy exploring programming languages, cybersecurity, and open-source projects
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesley-venerando-silva/)
+
+## 📂 Repository Status
+
+## Smart Housing Build Status
+![Build Status](https://github.com/venerandodasilvawesley-debug/smart-housing/actions/workflows/main.yml/badge.svg)
+
