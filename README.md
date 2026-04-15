@@ -14,6 +14,15 @@ JavaScript (Node.js)
 $ uname -a
 Linux
 
+<<<<<<< HEAD
+=======
+$ whoami
+wesley
+
+$ id
+uid=1337(hacker) gid=1337 groups=netsec,redteam
+
+>>>>>>> ac4384a (Atualiza README estilo hacker)
 
 🤝 Connect with Me
 
