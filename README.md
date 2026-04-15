@@ -24,4 +24,4 @@ uid=1337(hacker) gid=1337 groups=netsec,redteam
 🤝 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/wesley-venerando-silva  
-Reddit: https://www.reddit.com/user/venerandodasilvawesley
+Reddit: https://www.reddit.com/user/Big-Donut1791/
