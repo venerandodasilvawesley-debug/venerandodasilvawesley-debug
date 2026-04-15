@@ -1,4 +1,5 @@
-# My Profile on GitHub
+
+# Dark Super Nova
 
 ´´´
                         .       ....                     .  .   ...  .          .,,'.     ......    
@@ -68,43 +69,21 @@
 ccccccccccccc::cccccccccc:;;;,,,,''..'......'',;;;;::;;,'.....'',,,;;;;,............................
 ccccccccccc::ccccccccccccccccccc::::::::::;;;;;;;;;:::;;;;;;;;;,;,;;;;;::,..........................
 ccccccccccccccccccccccccccccccc:::::::::::;;;;;;;;;;;;;;;;;;;,,,,,;;;;;::::,........................
+´´´ 
 
-```
-
-# Dark Super Nova
-
-## 👋 About Me
-Hi, I'm Wesley Venerando Silva — a technology enthusiast passionate about learning new things.  
-I enjoy exploring programming languages, cybersecurity, and open-source projects.
+## 🌟 About Me
+Hi, I'm Wesley Venerando Silva — passionate about technology, cybersecurity, and open-source projects.
 
 ## 💻 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ## 🎯 Interests
 - Machine Learning  
 - Pentesting & Cryptography  
-- PC building and optimization  
+- PC building and optimization
 
-## 📊 GitHub Stats
-![Followers](https://img.shields.io/github/followers/venerandodasilvawesley-debug?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/venerandodasilvawesley-debug?style=for-the-badge)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venerandodasilvawesley-debug&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venerandodasilvawesley-debug&layout=compact&theme=radical)
-
-## 🧩 Repository Status
-### Smart Housing
-![Build Status](https://github.com/venerandodasilvawesley-debug/smart-housing/actions/workflows/main.yml/badge.svg)
-[![codecov](https://codecov.io/gh/venerandodasilvawesley-debug/smart-housing/branch/main/graph/badge.svg)](https://codecov.io/gh/venerandodasilvawesley-debug/smart-housing)
-
-### METATRON
-![Build Status](https://github.com/venerandodasilvawesley-debug/METATRON/actions/workflows/main.yml/badge.svg)
-[![codecov](https://codecov.io/gh/venerandodasilvawesley-debug/METATRON/branch/main/graph/badge.svg)](https://codecov.io/gh/venerandodasilvawesley-debug/METATRON)
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesley-venerando-silva/)
-[![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Big-Donut1791/)
-
+## 🤝 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/wesley-venerando-silva)
+[Reddit](https://www.reddit.com/user/venerandodasilvawesley)
